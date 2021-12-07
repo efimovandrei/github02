@@ -4,3 +4,4 @@ def prosto():
 
 print('Hello world')
 print('My first git program')
+print('One')
