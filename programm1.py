@@ -1,3 +1,5 @@
+# Петя
+
 def prosto():
     print('prosto print')
 
